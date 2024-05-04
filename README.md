@@ -1,4 +1,4 @@
-# App de Receitas
+# Aplicação de gerenciamento de despesa
 
 <h4>Projeto oferecido por <a href="https://www.betrybe.com/">@betrybe</a></h4>
 
